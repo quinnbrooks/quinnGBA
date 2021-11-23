@@ -16,7 +16,9 @@
  *
  */
 var games = {
-    "gta":"Grand Theft Auto Advance"
+    "gta":"Grand Theft Auto Advance",
+    "bike":"Excitebike",
+    "spiderman":"Ultimate Spider-Man"
 };
 var Iodine = null;
 var Blitter = null;
